@@ -1,0 +1,52 @@
+body{
+font-family:'Segoe UI';
+background:#eef2f3;
+margin:0;
+}
+
+.main{
+width:90%;
+margin:auto;
+}
+
+.topbar{
+display:flex;
+justify-content:space-between;
+padding:20px;
+}
+
+.card{
+background:#fff;
+padding:20px;
+border-radius:10px;
+margin:20px 0;
+}
+
+.profile{
+background:#0072ff;
+color:#fff;
+}
+
+.btn{
+background:#fff;
+color:#0072ff;
+padding:6px 10px;
+border-radius:5px;
+text-decoration:none;
+}
+
+.logout{
+background:red;
+color:#fff;
+padding:8px;
+border-radius:5px;
+}
+
+.skill-tag{
+background:#fff;
+color:#0072ff;
+padding:5px 10px;
+margin:3px;
+border-radius:20px;
+display:inline-block;
+}

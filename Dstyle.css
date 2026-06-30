@@ -1,0 +1,26 @@
+table{
+    width:100%;
+    border-collapse: collapse;
+    margin-top:20px;
+    background:#fff;
+    color:#000;
+}
+
+th, td{
+    padding:10px;
+    border:1px solid #ccc;
+    text-align:center;
+}
+
+th{
+    background:#0072ff;
+    color:#fff;
+}
+
+.card{
+    background:#00c6ff;
+    padding:15px;
+    border-radius:10px;
+    color:#fff;
+    width:120px;
+}
